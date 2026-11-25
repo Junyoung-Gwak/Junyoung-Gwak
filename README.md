@@ -1,5 +1,7 @@
 # 곽준영 · Robotics Software Engineer
 
+[English project overview](https://github.com/Junyoung-Gwak/robotics-portfolio/blob/main/README.en.md)
+
 이동로봇의 사람 추종, 다층 위치추정, 경유점 제어와 승강기 미션 연동을 다뤘습니다. 로봇이 예상과 다르게 움직이면 센서 관측, 선택한 경로, 최종 명령과 실제 상태를 시간순으로 대조합니다.
 
 **[자율주행·로봇 포트폴리오](https://github.com/Junyoung-Gwak/robotics-portfolio)**　·　[프로젝트 수행 시기](https://github.com/Junyoung-Gwak/robotics-portfolio#작업-시기)
